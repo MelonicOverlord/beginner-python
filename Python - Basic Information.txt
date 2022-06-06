@@ -1,0 +1,13 @@
+Binary: 1s and 0s, which stand for True and False
+
+String: a list of characters - e.g. "Hello World"
+Integer: a whole number - e.g. "1"
+Boolean: yes or no (Binary) - e.g. "0"
+Float: a non-whole number - e.g. "68.43234"
+
+* = x
++ = +
+/ = ./.
+- = -
+MOD = Remainder
+DIV = ^ (To The Power Of) - e.g. 5^2
